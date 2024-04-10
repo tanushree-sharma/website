@@ -1,10 +1,10 @@
-title: Jekyll Serial Programmer
+title: Tanushree Sharma
 markdown: kramdown
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Tanushree <br> Sharma 
+  email: tanushree@hotmail.ca
 
 plugins:
   - jemoji

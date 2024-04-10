@@ -154,6 +154,10 @@ main {
   line-height: 1.3rem;
   cursor: pointer;
 }
+.articles .article .description {
+  display: block;
+  line-height: 1 rem;
+}
 /* media query */
 
 @media screen and (max-width: 750px) {
@@ -173,6 +177,7 @@ main {
   header .site-title {
     font-size: 3rem;
   }
+
 }
 
 @media screen and (max-width: 550px) {
